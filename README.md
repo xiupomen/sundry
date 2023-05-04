@@ -1,5 +1,5 @@
 # sundry
-some old codes written by me from scratch
+some old codes
 
 ===========================================
 
